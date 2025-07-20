@@ -9,7 +9,7 @@
 <div align="right">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript" />
   <img width="12" />
